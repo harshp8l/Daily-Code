@@ -20,6 +20,8 @@ public class plusone {
     System.out.println("test5: " + Arrays.toString(plusOne(test5))); //5,0,0
     System.out.println("test6: " + Arrays.toString(plusOne(test6))); //4,9,7,0,0
     System.out.println("test7: " + Arrays.toString(plusOne(test7))); //
+    System.out.println(Arrays.toString(plusOne(new int[]{3,4,5}))); //3,4,6
+
 
   }
   
